@@ -2,7 +2,7 @@
 # Introduction
 
 ## Introduction
-This short lesson summarizes the topics we'll be covering in section 01 and why they'll be important to you as a Data Scientist.
+This short lesson summarizes the topics we'll be covering in section 1 and why they'll be important to you as a Data Scientist.
 
 ## Objectives
 You will be able to:
@@ -19,22 +19,16 @@ If you're new to Python (or programming), you may be a little overwhelmed at thi
 
 ## Coding in Python 
 
-Next, we introduce some of the most important elements of programming in Python. We start from the basics, but move fairly quickly. We cover variables, common data types, conditionals, lists and dictionaries. This may not all seem immediately relevant to data science, but it's designed to give you the tools that you'll need for all of your future projects in Python.
+Next, we introduce some of the most important elements of programming in Python. We start from the basics, but move fairly quickly. We cover variables, common data types, conditionals, lists, and dictionaries. This may not all seem immediately relevant to data science, but it's designed to give you the tools that you'll need for all of your future projects in Python.
 
-## Visualize that data
+## Visualize that Data
 
 Finally, we take a little bit of time to introduce you to `Matplotlib` - one of the most popular tools in Python for generating visualizations.
 
-<img src="https://matplotlib.org/_static/logo2.png" width=350>
+<img src="images/matplotlib.jpg" width=450>
 
 You will learn to plot some basic visualizations for simple datasets. These will include plotting bar graphs, histograms and scatter plots and adding axes labeling and title information to the plot.
 
-## End of Section Project
-
-We finish the section with a challenging project that brings together all of the skills introduced in section 1, by doing a basic analysis of Shakespeare's classic play: Macbeth.
-
-<img src="https://s3.pixers.pics/pixers/700/FO/51/62/73/20/700_FO51627320_38b000ce4e7073b9a223a545e94df174.jpg" width=500>
-
 ## Summary
 
-Remember, it's OK to feel a little uncomfortable. For some students, section 01 will be the most difficult as it introduces so many new concepts at once, but you'll continue to practice these day after day, until they become second nature. For those of you with a strong background in computing, please bear with us as we help everyone else to catch up. We've tried to introduce additional challenges for students who are finding the labs easy, so look out for the "Level Up (optional)" section in some of the labs to get some deeper practice with Python and visualization.
+Remember, it's OK to feel a little uncomfortable. For some students, section 1 will be the most difficult as it introduces so many new concepts at once, but you'll continue to practice these day after day, until they become second nature. For those of you with a strong background in computing, please bear with us as we help everyone else to catch up. We've tried to introduce additional challenges for students who are finding the labs easy, so look out for the "Level Up (optional)" section in some of the labs to get some deeper practice with Python and visualization.
