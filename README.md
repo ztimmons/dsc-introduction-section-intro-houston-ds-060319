@@ -15,7 +15,7 @@ We start this section by looking at the kinds of problems that data science can 
 
 We also run you through the workflow that we'll be using for the projects so you can get comfortable with how to access and update content and get some practice using the industry standard tools we just set you up with! And then to bring it all together, we ask you to "code along" with us to complete your first (very simple) data science project.
 
-If you're new to Python (or programming), you may be a little overwhelmed at this point. Don't worry. We'll spend all of the rest of the course practicing and deepening your understanding of the materials we introduced in the first part of section 01.
+If you're new to Python (or programming), you may be a little overwhelmed at this point. Don't worry. We'll spend all of the rest of the course practicing and deepening your understanding of the materials we introduced in the first part of section 1.
 
 ## Coding in Python 
 
@@ -25,7 +25,7 @@ Next, we introduce some of the most important elements of programming in Python.
 
 Finally, we take a little bit of time to introduce you to `Matplotlib` - one of the most popular tools in Python for generating visualizations.
 
-<img src="images/matplotlib.jpg" width=450>
+<img src="images/matplotlib.jpg" width="450">
 
 You will learn to plot some basic visualizations for simple datasets. These will include plotting bar graphs, histograms and scatter plots and adding axes labeling and title information to the plot.
 
